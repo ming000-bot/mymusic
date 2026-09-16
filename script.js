@@ -1,4 +1,6 @@
 const songData = [
+    {name:"山风等",singer:"2026热门歌曲9月",src:"https://v95-aw-web.douyinvod.com/d06776bf1a5214ab8fc8c3bd97cad4cb/6aab6221/video/tos/cn/tos-cn-ve-15/278c98c53e904f29bc0aa95766622691/media-audio-und-mp4a/",favorite:false},
+
     {name:"山风山风等等我",singer:"万海东",src:"山风山风等等我.mp3",favorite:false},
 
 //以下是网络链接
