@@ -1,5 +1,8 @@
 const songData = [
     {name:"山风等",singer:"2026热门歌曲9月",src:"https://v95-aw-web.douyinvod.com/d06776bf1a5214ab8fc8c3bd97cad4cb/6aab6221/video/tos/cn/tos-cn-ve-15/278c98c53e904f29bc0aa95766622691/media-audio-und-mp4a/",favorite:false},
+    {name:"热门歌",singer:"2025热门歌曲30首",src:"https://v95-aw-web.douyinvod.com/f61416f430ab6aecea69441bef01381e/6aab8a11/video/tos/cn/tos-cn-ve-15/94f0e0684cd44106a8c6984c7c006d50/media-audio-und-mp4a/",favorite:false},
+    {name:"战曲",singer:"全球十首战曲",src:"https://v95-zjwz2tc-web.douyinvod.com/833649970157831d4254a98cf154686c/6aab873d/video/tos/cn/tos-cn-vd-0026c000-ce/ocgALisSUJAWnDfxABDRBh66iAfIQgf74Bj91l/media-audio-und-mp4a/",favorite:false},
+    {name:"粤语",singer:"30首怀旧粤语",src:"https://v95-zjwz2tc-web.douyinvod.com/ee0485da28c2fd2db388443dda95c192/6aab9d38/video/tos/cn/tos-cn-ve-0015c800/osHXjAfcDEAAAe9AAagORdFEryAEAnitDAAMBF/media-audio-und-mp4a/",favorite:false},
 
     {name:"山风山风等等我",singer:"万海东",src:"山风山风等等我.mp3",favorite:false},
 
